@@ -1,5 +1,5 @@
 ---
-title: Adatvédelmi tájékoztató — Move Sloth Move
+title: Adatvédelmi tájékoztató
 permalink: /privacy-policy/hu/
 ---
 
