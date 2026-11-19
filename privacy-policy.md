@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy — Move Sloth Move
+title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
