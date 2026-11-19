@@ -3,8 +3,6 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-# Privacy Policy
-
 **Last updated:** 18 November 2026
 
 [Magyar változat](https://jodajoda.github.io/move-sloth-move-privacy/privacy-policy/hu/)
