@@ -19,7 +19,7 @@ Move Sloth Move is a gentle routine companion. Name your sloth, set your daily s
 
 There is no account or advertising. Game progress and step totals are stored on your device. If you enable weather, the app uses your approximate location with Apple WeatherKit to show conditions in your area.
 
-[Read the Privacy Policy](https://jodajoda.github.io/move-sloth-move-privacy/privacy-policy/)
+[Privacy Policy (English)](https://jodajoda.github.io/move-sloth-move-privacy/privacy-policy/)
 
 ## Magyarul
 
@@ -34,7 +34,7 @@ A Move Sloth Move egy kedves társ a napi rutinhoz. Nevezd el a lajhárodat, ál
 
 Nincs bejelentkezés és nincsenek hirdetések. A játékállapot és a lépésszám a készülékeden marad. Ha bekapcsolod az időjárást, az alkalmazás hozzávetőleges helyadatot használ az Apple WeatherKittel, hogy megjelenítse a környéked időjárását.
 
-[Adatvédelmi tájékoztató](https://jodajoda.github.io/move-sloth-move-privacy/privacy-policy/)
+[Adatvédelmi tájékoztató (magyar)](https://jodajoda.github.io/move-sloth-move-privacy/privacy-policy/hu/)
 
 ## Support / Kapcsolat
 
