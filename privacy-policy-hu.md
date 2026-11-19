@@ -3,8 +3,6 @@ title: Adatvédelmi tájékoztató
 permalink: /privacy-policy/hu/
 ---
 
-# Adatvédelmi tájékoztató
-
 **Utolsó frissítés:** 2026. november 18.
 
 [English version](https://jodajoda.github.io/move-sloth-move-privacy/privacy-policy/)
